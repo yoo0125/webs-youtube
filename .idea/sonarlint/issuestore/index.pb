@@ -26,3 +26,7 @@ S
 #src/assets/scss/setting/_reset.scss,b\b\bbab1da8ed2b318088082b61847669b9a4c44a55
 Q
 !src/assets/scss/setting/vars.scss,6\d\6dd3dfc63a7a51d850bcd12ac97250556b6926cd
+B
+src/pages/Home.jsx,4\3\430200dcc19df010a7afe234d14af8f3c4a0b33b
+B
+src/pages/Webd.jsx,0\1\0120b4114aafcf5da821de6d5c90c56f4622804f
