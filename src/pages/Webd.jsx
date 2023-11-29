@@ -6,4 +6,4 @@ const Webd = () => {
   )
 }
 
-export default Webd
+export default Webd;
