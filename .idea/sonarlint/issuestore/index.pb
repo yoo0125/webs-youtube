@@ -1,6 +1,4 @@
 
-D
-public/manifest.json,4\2\42e89cd2213b9d5dfae4f63522702c623170d792
 B
 public/favicon.svg,5\f\5f2454f9d281fd54d8c45aa67bd4c92c65574e1f
 A
@@ -18,8 +16,6 @@ T
 $src/assets/scss/setting/_common.scss,3\8\38030356615c0d9207fb0fc2afcf6e106e8f96fc
 S
 #src/assets/scss/setting/_fonts.scss,1\0\10ca4334efa85d392c7090f1b1e134bf45eaa83d
-R
-"src/assets/scss/setting/mixin.scss,f\5\f5c47240a5a458c514433d29411e56029040da8f
 S
 #src/assets/scss/setting/_mixin.scss,0\6\0695bd8f6952f8404fca96fa527f0678b5d06722
 S
@@ -30,3 +26,9 @@ B
 src/pages/Home.jsx,4\3\430200dcc19df010a7afe234d14af8f3c4a0b33b
 B
 src/pages/Webd.jsx,0\1\0120b4114aafcf5da821de6d5c90c56f4622804f
+Q
+!src/components/section/Header.jsx,1\0\10455fa193aaf3b3449985bca86976ee7e7b6b5a
+T
+$src/assets/scss/section/_header.scss,5\4\54399dad6e0f8334d95b1589aa8232bbb190e7da
+R
+"src/assets/scss/setting/_vars.scss,e\0\e0fc605a357ea8e4ac3e9c394a43bd62a7ef220c
