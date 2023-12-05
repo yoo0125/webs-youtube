@@ -20,8 +20,6 @@ S
 #src/assets/scss/setting/_mixin.scss,0\6\0695bd8f6952f8404fca96fa527f0678b5d06722
 S
 #src/assets/scss/setting/_reset.scss,b\b\bbab1da8ed2b318088082b61847669b9a4c44a55
-Q
-!src/assets/scss/setting/vars.scss,6\d\6dd3dfc63a7a51d850bcd12ac97250556b6926cd
 B
 src/pages/Home.jsx,4\3\430200dcc19df010a7afe234d14af8f3c4a0b33b
 B
@@ -32,3 +30,7 @@ T
 $src/assets/scss/section/_header.scss,5\4\54399dad6e0f8334d95b1589aa8232bbb190e7da
 R
 "src/assets/scss/setting/_vars.scss,e\0\e0fc605a357ea8e4ac3e9c394a43bd62a7ef220c
+Q
+!src/components/section/Search.jsx,e\e\eed08e38c3a6356c21503a5d3431a8f56a3001d8
+T
+$src/assets/scss/section/_search.scss,6\f\6ff07306ed5a18c0b3bb1fd94230cd3574407d1f
