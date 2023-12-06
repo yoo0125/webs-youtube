@@ -34,3 +34,7 @@ Q
 !src/components/section/Search.jsx,e\e\eed08e38c3a6356c21503a5d3431a8f56a3001d8
 T
 $src/assets/scss/section/_search.scss,6\f\6ff07306ed5a18c0b3bb1fd94230cd3574407d1f
+O
+src/components/section/Main.jsx,a\3\a3d72c4b7fcdc29b8ecfd97fe5025a19e3580547
+U
+%src/components/contents/Portfolio.jsx,c\7\c775e9fe4fb948d82f06951b4fc06a1919658342
