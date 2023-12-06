@@ -38,3 +38,5 @@ O
 src/components/section/Main.jsx,a\3\a3d72c4b7fcdc29b8ecfd97fe5025a19e3580547
 U
 %src/components/contents/Portfolio.jsx,c\7\c775e9fe4fb948d82f06951b4fc06a1919658342
+P
+ src/components/contents/Webd.jsx,1\5\153df4a884878de54a501e053c695d2b6fcebaa3
